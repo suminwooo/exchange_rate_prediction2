@@ -25,7 +25,7 @@
 
 
   - 12개의 테스트 셋에 대해 그림으로 확인  
-  ![prophet plot](./prophet plot.png)
+  ![prophet plot](prophet plot.png)
 
 -----------------------------------------------
 
