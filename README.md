@@ -85,4 +85,4 @@
 
 
   - 12개의 테스트 셋에 대해 그림으로 확인  
-  ![prophet plot](dnn1 plot.png)
+  ![prophet plot](dnnplot.png)
