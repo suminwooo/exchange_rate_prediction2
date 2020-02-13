@@ -24,7 +24,7 @@
 | X | X | O | X | X | X | X | X | X | O | O | X |
 
 
-  - 12개의 테스트 셋에 대해 그림으로 확인->[만든 코드](https://github.com/suminwooo/project1/blob/master/dnn%20plot%20%EB%A7%8C%EB%93%A0%EC%BD%94%EB%93%9C.ipynb)  
+  - 12개의 테스트 셋에 대해 그림으로 확인
   ![prophet plot](prophetplot.png)
 
 -----------------------------------------------
@@ -84,7 +84,7 @@
 | 한달 | 40.0  | 78.95  | 30.0  | 15.79  | 77.78  | 38.1  | 35.0  | 47.06  | 35.0  | 52.63  | 63.16  |  
 
 
-  - 12개의 테스트 셋에 대해 그림으로 확인  
+  - 12개의 테스트 셋에 대해 그림으로 확인->[만든 코드](https://github.com/suminwooo/project1/blob/master/dnn%20plot%20%EB%A7%8C%EB%93%A0%EC%BD%94%EB%93%9C.ipynb)    
   ![dnn plot](dnnplot.png)
   
   - 파라미터를 수정하며 돌린 결과-> [ 돌려본코드 ](https://github.com/suminwooo/project1/blob/master/DNN%20set01-%20set11%20%EB%8F%8C%EB%A6%B0%20%EC%BD%94%EB%93%9C.ipynb)
