@@ -117,7 +117,7 @@
   - 업다운의 정확도 보다는 RMSE를 토대로 온라인 학습으로 그래프를 그려서 시각가 좋아 보임.
 
 
-- 성능이 괜찮았던 모델들로 1년 train셋, 11개월 test셋으로 하여 모델을 돌려봄.  -> [ 모델 여러번 돌려린 그래프 ]https://github.com/suminwooo/project1/blob/master/dnn%20model%20plots.png
+- 성능이 괜찮았던 모델들로 1년 train셋, 11개월 test셋으로 하여 모델을 돌려봄.  -> [ 모델 여러번 돌려린 그래프 ](https://github.com/suminwooo/project1/blob/master/dnn%20model%20plots.png)
 
 | 모델 |	RMSE |	전체 |	100일 |	50일	| 20일 |	10일 |	5일 |
 | ---------- | :---------:| :----------: | ----------: | ---------- | :---------:| :----------: | ----------: |
