@@ -24,7 +24,7 @@
 | X | X | O | X | X | X | X | X | X | O | O | X |
 
 
-  - 12개의 테스트 셋에 대해 그림으로 확인  
+  - 12개의 테스트 셋에 대해 그림으로 확인->[만든 코드](https://github.com/suminwooo/project1/blob/master/dnn%20plot%20%EB%A7%8C%EB%93%A0%EC%BD%94%EB%93%9C.ipynb)  
   ![prophet plot](prophetplot.png)
 
 -----------------------------------------------
