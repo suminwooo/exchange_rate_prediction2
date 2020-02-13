@@ -87,7 +87,7 @@
   - 12개의 테스트 셋에 대해 그림으로 확인  
   ![dnn plot](dnnplot.png)
   
-  - 파라미터를 수정하며 돌린 결과-> [예측한 주가 추세] (https://github.com/suminwooo/project1/blob/master/DNN%20set01-%20set11%20%EB%8F%8C%EB%A6%B0%20%EC%BD%94%EB%93%9C.ipynb)
+  - 파라미터를 수정하며 돌린 결과-> [예측한 주가 추세](https://github.com/suminwooo/project1/blob/master/DNN%20set01-%20set11%20%EB%8F%8C%EB%A6%B0%20%EC%BD%94%EB%93%9C.ipynb)
   
 |모델	|	1층(유닛,활성함수,dropout,규제)	|	2층(유닛,활성함수,dropout,규제)|	3층(유닛,활성함수,dropout,규제)|	
 | ---------- | :---------:| :----------: | ----------: |
