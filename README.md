@@ -59,13 +59,13 @@
 ----------------------------------------
 
 
-3. DNN 정리
+3. DNN 정리 : [기본코드](https://github.com/suminwooo/project1/blob/master/dnn.ipynb)
 
 -> prophet과 arima모델을 사용함으로서 좋은 결과가 나타나지 않음.      
 -> DNN 하이퍼 파라미터를 수정하면서 해볼예정.  
  
 
-  ) set01만 활용하여 5일간 정확률 80%, RMSE=4.6으로 전체 11개(set01~set11)의 셋을 돌려봄.    
+  set01만 활용하여 5일간 정확률 80%, RMSE=4.6으로 전체 11개(set01~set11)의 셋을 돌려봄.    
 
   
   - RMSE    
